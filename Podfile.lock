@@ -1,0 +1,40 @@
+PODS:
+  - Alamofire (4.0.0)
+  - BTNavigationDropdownMenu (0.4.1)
+  - EZLoadingActivity (1.01)
+  - Kingfisher (3.2.4)
+  - Whisper (4.0.0)
+
+DEPENDENCIES:
+  - Alamofire (from `https://github.com/Alamofire/Alamofire.git`, tag `4.0.0`)
+  - BTNavigationDropdownMenu (from `https://github.com/PhamBaTho/BTNavigationDropdownMenu.git`, branch `swift-3.0`)
+  - EZLoadingActivity
+  - Kingfisher (~> 3.0)
+  - Whisper
+
+EXTERNAL SOURCES:
+  Alamofire:
+    :git: https://github.com/Alamofire/Alamofire.git
+    :tag: 4.0.0
+  BTNavigationDropdownMenu:
+    :branch: swift-3.0
+    :git: https://github.com/PhamBaTho/BTNavigationDropdownMenu.git
+
+CHECKOUT OPTIONS:
+  Alamofire:
+    :git: https://github.com/Alamofire/Alamofire.git
+    :tag: 4.0.0
+  BTNavigationDropdownMenu:
+    :commit: 2c08c8579cf7a53ecb3dbf578e6e1034080a9859
+    :git: https://github.com/PhamBaTho/BTNavigationDropdownMenu.git
+
+SPEC CHECKSUMS:
+  Alamofire: fef59f00388f267e52d9b432aa5d93dc97190f14
+  BTNavigationDropdownMenu: 093f3cbfad1572f2c222bdf8d17584d1e13380d4
+  EZLoadingActivity: edd7e387e5197b116ce2cccb3fd747ababc2a510
+  Kingfisher: 8d80f39da403cd9c9ee11984e1655f4d6a566cdb
+  Whisper: 08be92623311f8e53201e62e17f6d7b9599a4714
+
+PODFILE CHECKSUM: 7a34eb162cefa51f6673c68c1a3f01447e44cfed
+
+COCOAPODS: 1.1.1
