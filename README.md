@@ -12,8 +12,4 @@ Epitech Intra App on iOS Dev in Swift (2016)
 * Profil
 * Projects
 * Leaderbord
-* Ranking by gpa !
-
-```
-Some features were destroyed by the new french laws...
-```
+* Ranking by gpa 
